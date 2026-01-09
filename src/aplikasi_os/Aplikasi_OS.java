@@ -9,5 +9,7 @@ package aplikasi_os;
  * @author M S I
  */
 public class Aplikasi_OS {
-    
+    public static void main(String[] args) {
+        System.out.println("Second Commit");
+    }
 }
